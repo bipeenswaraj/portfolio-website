@@ -1054,7 +1054,7 @@
             </div>
             <div class="about-content">
                 <div class="about-img">
-                    <img src="profileportfolio.jpg" alt="Profile Picture" id="profile-pic">
+                    <img src="profilecv1.jpg" alt="Profile Picture" id="profile-pic">
                 </div>
                 <div class="about-text">
                     <h3>Introduction & Summary</h3>
