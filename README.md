@@ -1080,7 +1080,7 @@
                         </div>
                         <div class="info-item">
                             <span>Location:</span>
-                            <span id="info-location">Patna, Bihar/span>
+                            <span id="info-location">Patna, Bihar </span>
                         </div>
                     </div>
                     
